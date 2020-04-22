@@ -11,4 +11,8 @@ public class user {
     public  String get1(){
         return  "以按时出勤为荣！！";
     }
+     @RequestMapping("index1")
+    public  String get1(){
+        return  "以勤学善问为荣！！";
+    }
 }
